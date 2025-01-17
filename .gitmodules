@@ -1,0 +1,15 @@
+[submodule "Prereq1"]
+	path = Prereq1
+	url = https://github.com/Udoka-AM/Q1-2025-Turbin3Prereqs-typescript-Udoka
+[submodule "Prereq2"]
+	path = Prereq2
+	url = https://github.com/Udoka-AM/Q1-2025-Turbin3Prereqs-Rust-Udoka
+[submodule "Day1"]
+	path = Day1
+	url = https://github.com/Udoka-AM/Sol-starter-spl_init-mint
+[submodule "Day2"]
+	path = Day2
+	url = https://github.com/Udoka-AM/sol-starter-spl_metadata-transfer
+[submodule "Day3"]
+	path = Day3
+	url = https://github.com/Udoka-AM/sol-starter-spl_image-data-mint
