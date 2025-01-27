@@ -13,3 +13,6 @@
 [submodule "Day3"]
 	path = Day3
 	url = https://github.com/Udoka-AM/sol-starter-spl_image-data-mint
+[submodule "anchorVault"]
+	path = anchorVault
+	url = https://github.com/Udoka-AM/anchorVault
