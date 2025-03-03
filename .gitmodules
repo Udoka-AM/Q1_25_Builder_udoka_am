@@ -16,3 +16,6 @@
 [submodule "anchorVault"]
 	path = anchorVault
 	url = https://github.com/Udoka-AM/anchorVault
+[submodule "solscore-capstone"]
+	path = solscore-capstone
+	url = https://github.com/Udoka-AM/solscore-new
